@@ -1,6 +1,6 @@
 ## Rodrigo Cardoso
 
-- 📚 Cursando Sistamas de Informação IFMG
+- 📚 Cursando Sistemas de Informação IFMG
 - 🖥 Desenvolvedor Fron-end | Mobile
 
 ##
