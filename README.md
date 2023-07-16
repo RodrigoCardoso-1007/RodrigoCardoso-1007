@@ -1,6 +1,6 @@
 ## Rodrigo Cardoso
 
-- 📚 Cursando Sistemas de Informação  -  UNA (Aimorés)
+- 📚 Cursando Sistemas de Informação  -  IFMG (Sabará)
 - 🖥 Desenvolvedor Frontend | Mobile
 
 ##
